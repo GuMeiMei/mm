@@ -4,7 +4,11 @@ public class A{
 	System.out.println("hello word");
 	System.out.println("hello gmm
 	333333
+
 地方的释放胜多负少的
+
+55555
+
 
 }
 }
